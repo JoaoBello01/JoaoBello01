@@ -1,8 +1,8 @@
 # ✨ João Bello Accioly - Analista de dados
 
-+ Ola, Meu nome é João Bello 
++ Ola, Meu nome é João Bello Accioly 
 + Eu faço ciência da computação no cefet-rj
-+ Trabalho no TCE-RJ como estagiário em dados.
++ Trabalho no BNDES como estagiário em blockchain.
 
 ## 💬 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b27?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joão-bello-accioly/)

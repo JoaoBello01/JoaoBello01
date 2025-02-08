@@ -2,7 +2,7 @@
 
 + Ola, Meu nome é João Bello Accioly 
 + Eu faço ciência da computação no cefet-rj
-+ Trabalho no BNDES como estagiário em blockchain.
++ Trabalho na Baker Hughes como estagiário de análise de dados.
 
 ## 💬 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b27?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/joão-bello-accioly/)
